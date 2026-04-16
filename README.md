@@ -5,3 +5,6 @@
 1. ctrl+space стоп/запуск песни
 2. ctrl+стрелочки. вверх/вниз регулировка звука, влево/вправо переключение песни
 3. на этом пока все, дальше больше  ;)
+
+кому лень искать екзешник находится по пути 
+https://github.com/twizzyy1/BestProject/blob/main/TrayApp/TrayApp/bin/Debug/TrayApp.exe
