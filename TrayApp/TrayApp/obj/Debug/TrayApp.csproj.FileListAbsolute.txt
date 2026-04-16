@@ -1,0 +1,10 @@
+C:\Users\kiril\OneDrive\Desktop\TrayApp\TrayApp\obj\Debug\TrayApp.csproj.AssemblyReference.cache
+C:\Users\kiril\OneDrive\Desktop\TrayApp\TrayApp\obj\Debug\TrayApp.Properties.Resources.resources
+C:\Users\kiril\OneDrive\Desktop\TrayApp\TrayApp\obj\Debug\TrayApp.csproj.GenerateResource.cache
+C:\Users\kiril\OneDrive\Desktop\TrayApp\TrayApp\obj\Debug\TrayApp.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Desktop\TrayApp\TrayApp\bin\Debug\TrayApp.exe.config
+C:\Users\kiril\OneDrive\Desktop\TrayApp\TrayApp\bin\Debug\TrayApp.exe
+C:\Users\kiril\OneDrive\Desktop\TrayApp\TrayApp\bin\Debug\TrayApp.pdb
+C:\Users\kiril\OneDrive\Desktop\TrayApp\TrayApp\obj\Debug\TrayApp.exe
+C:\Users\kiril\OneDrive\Desktop\TrayApp\TrayApp\obj\Debug\TrayApp.pdb
+C:\Users\kiril\OneDrive\Desktop\TrayApp\TrayApp\obj\Debug\TrayApp.exe.config
